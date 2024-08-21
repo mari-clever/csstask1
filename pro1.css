@@ -1,0 +1,72 @@
+.good{
+    background-color: rgb(228, 221, 226);
+    padding: 10px;
+}
+.box{
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 1px 1px  9px ;
+    width: 275px;
+    height: 600px;
+    background-color: white;
+
+}
+h6{
+    display: inline;
+    position: absolute;
+    right: 20px;
+}
+
+.box0{
+    display: flex;
+}
+.temp{
+    border-radius: 50%;
+    padding: 5px;
+}
+.list-inline,li{
+    padding: 5px;
+}
+.one{
+    position: relative;
+    left: 121px;
+}
+.two{
+    position: relative;
+    left: 163px;
+}
+.three{
+    position: relative;
+    left: 145px;
+}
+.four{
+    position: relative;
+    left: 170px;
+}
+.five{
+    position: relative;
+    left: 140px;
+}
+.six{
+    position: relative;
+    left: 185px;
+}
+.seven{
+    position: relative;
+    left: 165px;
+}
+.box4{
+    display: flex;
+    position: relative;
+    top: 30PX;
+}
+.hari{
+    padding: 27px;
+    margin-top: 60px;
+}
+.abi{
+    display: inline;
+    border-radius: 2px;
+    box-shadow: 1px 1px 5px;
+    background-color: rgb(228, 221, 226);
+}
